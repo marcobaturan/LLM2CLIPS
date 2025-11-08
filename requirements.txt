@@ -1,0 +1,9 @@
+# LLM2CLIPS Dependencies
+# Python 3.8+
+
+# CLIPS Python bindings for expert system execution
+clipspy==1.0.5
+
+# Ollama Python client for LLM interaction
+ollama>=0.3.0
+
